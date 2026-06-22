@@ -338,6 +338,4 @@ To run: same setup as section 6 — `cd frontend && npm install && npm run dev`.
   real-time stat cards and Recharts visualizations for enrollment and attendance trends.
 - Authored a complete Postman collection and REST API documentation to streamline backend
   testing and onboarding.
-#   E d u T r a c k 
- 
- 
+#
